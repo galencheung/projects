@@ -135,9 +135,6 @@ data %>%
     ## 10 Australia                              69
     ## # ... with 28 more rows
 
-``` r
-#group_by(Country, InvoiceNo)
-```
 
 -   Find the smallest portion of customers that drive the biggest
     portion of the company revenue. See the [80/20
