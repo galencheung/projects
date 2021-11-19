@@ -1,3 +1,3 @@
-# portfolio
-Porfolio Projects
+# Projects
+
 #Item 1: ECommerece Analysis
